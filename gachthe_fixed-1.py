@@ -24,9 +24,9 @@ from telegram.ext import (
 # CONFIG
 # =========================================================
 
-USER_BOT_TOKEN = os.getenv("USER_BOT_TOKEN", "").strip()
+USER_BOT_TOKEN = os.getenv("8861317548:AAFmlvLtL7vu0Lrc5v5jWpBjKViV1uZqM1E", "").strip()
 
-ADMIN_BOT_TOKEN = os.getenv("ADMIN_BOT_TOKEN", "").strip()
+ADMIN_BOT_TOKEN = os.getenv("8789675953:AAHxrvD63hw5qCNNT43Bx3MGJ8xG5l23z4M", "").strip()
 
 # ID Telegram của admin
 ADMIN_IDS = {
